@@ -1,2 +1,2 @@
 # cool-frontend
-[livedeploymentlinl]()
+[livedeploymentlink](https://cool-frontend.seifullaha.repl.co)
